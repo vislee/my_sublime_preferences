@@ -1,0 +1,6 @@
+[
+	{ "keys": ["f3"], "command": "find_next" },
+	{ "keys": ["ctrl+f3"], "command": "find_under" },
+	{ "keys": ["ctrl+shift+f3"], "command": "find_prev" },
+	{ "keys": ["ctrl+f2"], "command": "toggle_bookmark" },
+]
